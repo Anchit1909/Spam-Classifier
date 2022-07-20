@@ -1,6 +1,6 @@
-# Email Automation 📨⚡
+# Spam Classifier 📨✅
 
-![Display Image](images/g0.png)
+![Display Image](CoverImage.png)
 
 ## Goal for this project
 
@@ -43,5 +43,5 @@ This classification can reduce cybercrimes and make lives of normal people easie
 
 ![Program Flow](VisualFlow.png)
 
-## Website Preview
-![Preview Image](CoverImage.png)
+## Model Preview
+![Preview Image](mainModel.png)
