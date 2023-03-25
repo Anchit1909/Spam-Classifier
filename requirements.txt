@@ -1,4 +1,3 @@
-streamlit
-nltk
-sklearn
-streamlit-lottie
+nltk==3.7
+streamlit==1.10.0
+streamlit_lottie==0.0.3
