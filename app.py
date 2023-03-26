@@ -9,7 +9,7 @@ from streamlit_lottie import st_lottie
 import time
 ps = PorterStemmer()
 
-
+nltk.download()
 def transform_text(text):
     text = text.lower()
     text = nltk.word_tokenize(text)
