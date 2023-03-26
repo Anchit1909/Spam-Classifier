@@ -7,7 +7,6 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 from streamlit_lottie import st_lottie
 import time
-import sklearn
 ps = PorterStemmer()
 
 
