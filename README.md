@@ -39,7 +39,7 @@ This classification can reduce cybercrimes and make lives of normal people easie
 
 **Bayes’ Theorem:** Bayes’ Theorem finds the probability of an event occurring given the probability of another event that has already occurred.
 
-## Complete Visual Flow of the Program
+## Complete Visual Flow of the Application
 
 ![Program Flow](VisualFlow.png)
 
